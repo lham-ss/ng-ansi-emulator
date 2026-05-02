@@ -1,0 +1,16 @@
+{
+  "name": "ng-ansi-emulator",
+  "version": "0.1.0",
+  "description": "Angular 21 ANSI/ASCII art emulator with HTML5 Canvas rendering and authentic CP437 8x16 VGA bitmap font.",
+  "keywords": ["angular", "ansi", "ascii", "cp437", "bbs", "ansimation", "canvas", "vga", "vision/2", "crimson blade"],
+  "author": "Lawrence Ham",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^21.0.0",
+    "@angular/core": "^21.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.6.0"
+  },
+  "sideEffects": false
+}
